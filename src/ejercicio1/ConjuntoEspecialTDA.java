@@ -98,7 +98,6 @@ public class ConjuntoEspecialTDA implements ConjuntoTDA {
 		return 0;
     }
     
-
     /*
     Verifica si el conjunto está vacío.
     Retorna true si nodo es null.
